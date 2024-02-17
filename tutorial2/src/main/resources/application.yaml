@@ -1,0 +1,7 @@
+server:
+  port: 18080
+  
+
+spring:
+  messages:
+    basename: messages,config.i18n.messages
